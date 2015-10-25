@@ -1,0 +1,12 @@
+{
+    "name": "write-good-service",
+    "description": "Node web service for write-good",
+    "version": "0.0.1",
+    "author": "Greg Levine <levine.greg@gmail.com>",
+    "homepage": "https://github.com/glevine/write-good-service",
+    "private": true,
+    "dependencies": {
+        "restify": "~2.8.5",
+        "write-good": "~0.9.0"
+    }
+}
